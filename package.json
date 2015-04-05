@@ -1,0 +1,23 @@
+{
+  "name": "remove-require",
+  "version": "0.0.0",
+  "description": "Remove requires and replace them with something else of the same length",
+  "keywords": [],
+  "dependencies": {
+    "acorn": "^1.0.1"
+  },
+  "devDependencies": {
+    "istanbul": "^0.3.13",
+    "testit": "^2.0.2"
+  },
+  "scripts": {
+    "test": "node test",
+    "coverage": "istanbul cover test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/remove-require.git"
+  },
+  "author": "Forbes Lindesay",
+  "license": "MIT"
+}
