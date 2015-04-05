@@ -1,6 +1,6 @@
 {
   "name": "remove-require",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Remove requires and replace them with something else of the same length",
   "keywords": [],
   "dependencies": {
