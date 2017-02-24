@@ -1,5 +1,7 @@
 # remove-require
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/remove-require.svg)](https://greenkeeper.io/)
+
 Remove requires and replace them with something else of the same length.
 
 It is clever enough to detect if `_dereq_` is already taken, and always choose a token that is unused.  It also changes any parameter names, variable declarations etc. to match.  It will change the variable even if it appears to be global, this saves it from having to do scope analysis.

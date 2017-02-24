@@ -4,10 +4,10 @@
   "description": "Remove requires and replace them with something else of the same length",
   "keywords": [],
   "dependencies": {
-    "acorn": "^1.0.1"
+    "acorn": "^4.0.11"
   },
   "devDependencies": {
-    "istanbul": "^0.3.13",
+    "istanbul": "^0.4.5",
     "testit": "^2.0.2"
   },
   "scripts": {
